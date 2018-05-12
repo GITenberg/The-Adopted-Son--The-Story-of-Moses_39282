@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5611'
     url: http://www.gutenberg.org/2009/agents/5611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39282#The-Adopted-Son--The-Story-of-Moses
 gutenberg_issued: '2012-03-27'
 gutenberg_type: Text
 identifiers:

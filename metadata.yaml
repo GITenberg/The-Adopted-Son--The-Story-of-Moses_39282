@@ -1,0 +1,27 @@
+_repo: The-Adopted-Son--The-Story-of-Moses_39282
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willard, J. H. (James Hartwell)
+    alias: Willard, James Hartwell
+    birthdate: 1847
+    gutenberg_agent_id: '5611'
+    url: http://www.gutenberg.org/2009/agents/5611
+description: ''
+gutenberg_issued: '2012-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moses (Biblical leader) -- Juvenile literature'
+- !lcsh 'Bible stories -- Old Testament'
+- !lcc 'BS'
+title: 'The Adopted Son: The Story of Moses'
+url: http://www.gutenberg.org/ebooks/39282
